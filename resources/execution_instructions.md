@@ -35,3 +35,7 @@
     to the user in plain text, point out the contradiction, and ask for
     resolution. You are strictly forbidden from planning or executing any
     file-writing/editing tool in the same turn as you discover a contradiction.
+-   **Technical Section Context (CRITICAL)**: For every technical section in the
+    design document, you MUST state before the technical details: (1) What it is
+    for (how it maps to the user's goal), (2) What is possible with this setup,
+    and (3) What is NOT possible (constraints and limitations).
